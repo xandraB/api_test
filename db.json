@@ -1,0 +1,51 @@
+{
+    "items": [
+      {
+        "@context": "https://dragonsnmore.org",
+        "@type": "CreativeWork",
+        "id": "1",
+        "name": "D20 Die",
+        "description": "Item for playing Dungeons & Dragons"
+      },
+      {
+        "@context": "https://dragonsnmore.org",
+        "@type": "CreativeWork",
+        "id": "2",
+        "name": "Character sheet",
+        "description": "Item for building chracters for tabletop games"
+      },
+      {
+        "@context": "https://dragonsnmore.org",
+        "@type": "CreativeWork",
+        "id": "3",
+        "name": "Map",
+        "description": "Item for locating chracters in game play"
+      }
+    ],
+    "users": [
+      {
+        "@context": "https://dragonsnmore.org",
+        "@type": "Person",
+        "id": "1",
+        "name": "Peppermint Preston",
+        "description": "Love this the D20 die! It is perfect for playing D&D.",
+        "itemId": "1"
+      },
+      {
+        "@context": "https://dragonsnmore.org",
+        "@type": "Person",
+        "id": "2",
+        "name": "Gukgak Theball",
+        "description": "This map is okay. My homemade map was better.",
+        "itemId": "3"
+      }
+    ],
+    "collection": {
+      "@context": "https://dragonsnmore.org/",
+      "@type": "Collection",
+      "name": "bustos' API",
+      "creator": "bustosAA",
+      "about": "A collection of items typically used for playing tabletop games",
+      "url": "https://www.butsos_A.info"
+    }
+  }
