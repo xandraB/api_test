@@ -12,14 +12,14 @@
         "@type": "CreativeWork",
         "id": "2",
         "name": "Character sheet",
-        "description": "Item for building chracters for tabletop games"
+        "description": "Item for building characters for tabletop games"
       },
       {
         "@context": "https://dragonsnmore.org",
         "@type": "CreativeWork",
         "id": "3",
         "name": "Map",
-        "description": "Item for locating chracters in game play"
+        "description": "Item for locating characters in gameplay"
       }
     ],
     "users": [
@@ -29,7 +29,7 @@
         "id": "1",
         "name": "Peppermint Preston",
         "description": "Love this the D20 die! It is perfect for playing D&D.",
-        "itemId": "1"
+        "itemId": "2"
       },
       {
         "@context": "https://dragonsnmore.org",
